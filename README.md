@@ -13,7 +13,7 @@ Description of each file is given below.
 - USB Mode Switch configuration file for Vodafone K3770-Z 3G USB Modem
 - This file needs to be placed in /etc/usb_modeswitch.d on the SD Card of your Raspberry Pi and renamed to "19d2:1175
 
-sakis3.conf
+sakis3g.conf
 -----------
 - Sakis3G automation configuration file to be placed in /etc on the SD Card of your Raspberry Pi
 
